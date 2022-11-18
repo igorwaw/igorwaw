@@ -7,7 +7,8 @@ Currently all repos are private. This might change in future when I feel that a 
 ## List of repos
 * [Ansible](https://github.com/igorwaw/ansible) - copy of my playbooks
 * [Arduino Laser Harp](https://github.com/igorwaw/laserharp) - Laser harp with Arduino
-* [Go Learn](https://github.com/igorwaw/golearn) - my early experiments with Go, really nothing to see here
+* [Go Learn](https://github.com/igorwaw/golearn) - my experiments with Go, really nothing to see here
+* [Twitoot](https://github.com/igorwaw/twitoot) - command line client for Twitter and Mastodon, early stage
 
 <!---
 igorwaw/igorwaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
