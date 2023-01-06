@@ -14,6 +14,7 @@ side projects etc. Nothing to do with my day job.
 
 
 ## List of public repos
+* [Advent 15](https://github.com/igorwaw/advent15) - Advent of Code 2015
 * [Advent 22](https://github.com/igorwaw/advent22) - Advent of Code 2022
 * [Project Euler](https://github.com/igorwaw/euler) - Project Euler
 
