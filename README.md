@@ -22,7 +22,8 @@ side projects etc. Nothing to do with my day job.
 ## List of private repos
 * [Ansible](https://github.com/igorwaw/ansible) - copy of my playbooks
 * [Arduino Laser Harp](https://github.com/igorwaw/laserharp) - Laser harp with Arduino
-* [Go Learn](https://github.com/igorwaw/golearn) - my experiments with Go, really nothing to see here
+* [PyLearn](https://github.com/igorwaw/pylearn) - Python experiments and code snippets
+* [GoLearn](https://github.com/igorwaw/golearn) - experiments with Go, really nothing to see here
 * [Twitoot](https://github.com/igorwaw/twitoot) - command line client for Twitter and Mastodon, early stage
 
 Currently these repos are private. This might change in future when I feel that a project reached enough quality to share it.
